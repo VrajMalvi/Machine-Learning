@@ -38,4 +38,3 @@ We provide a summary of the top association rules discovered in the dataset. The
 Feel free to explore the notebook and adapt it to your specific dataset and analysis requirements. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Happy analyzing!
-
