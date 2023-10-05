@@ -6,13 +6,13 @@ This GitHub repository contains implementations of two popular association rule 
 
 The "apriori" folder within this repository contains the Python implementation of the Apriori algorithm. Apriori is known for its breadth-first approach to finding frequent itemsets and association rules. The code here demonstrates how to preprocess data, train the Apriori model, and visualize the results.
 
-[Explore the Apriori Algorithm](./apriori)
+[Explore the Apriori Algorithm](./Apriori)
 
 ## Eclat Algorithm
 
 The "eclat" folder within this repository contains the Python implementation of the Eclat algorithm. Eclat, in contrast to Apriori, uses a depth-first approach and focuses on intersecting transaction lists to discover frequent itemsets. The code provided showcases data preprocessing, model training, and result visualization using Eclat.
 
-[Explore the Eclat Algorithm](./eclat)
+[Explore the Eclat Algorithm](./Eclat)
 
 ## Code Overview
 
