@@ -8,7 +8,6 @@ This repository contains the implementation of the Thompson Sampling algorithm f
 - [Implementation](#implementation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
