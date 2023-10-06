@@ -31,8 +31,4 @@ Please refer to the respective README files in the "apriori" and "eclat" folders
 
 If you have any improvements, bug fixes, or additional features to suggest for the Apriori or Eclat implementations, feel free to open an issue or submit a pull request. Contributions are welcome and encouraged!
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Happy association rule mining!
