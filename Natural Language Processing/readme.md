@@ -56,12 +56,6 @@ Clone this repository to your local machine:
 git clone https://github.com/your-username/natural-language-processing.git
 ```
 
-Navigate to the project directory:
-
-```bash
-cd natural-language-processing
-```
-
 Execute the Jupyter Notebook or Python script to run the code. You can use a code editor or a Jupyter Notebook to open the provided .ipynb or .py file.
 
 # Results
@@ -77,7 +71,7 @@ Confusion Matrix:
  [12 91]]
 ```
 
-Accuracy: 0.73
+__Accuracy: 0.73__
 
 **Logistic Regression Classifier:**
 
@@ -88,6 +82,6 @@ Confusion Matrix:
  [28 75]]
 ```
 
-Accuracy: 0.775
+__Accuracy: 0.775__
 
 These results provide an understanding of the effectiveness of the two models in classifying restaurant reviews based on sentiment.
