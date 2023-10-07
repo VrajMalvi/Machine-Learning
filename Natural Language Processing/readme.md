@@ -49,7 +49,7 @@ You can install the required libraries using the following command:
 pip install numpy matplotlib pandas nltk scikit-learn
 \`\`\`
 
-\`\`\`markdown
+
 # Usage
 
 Clone this repository to your local machine:
