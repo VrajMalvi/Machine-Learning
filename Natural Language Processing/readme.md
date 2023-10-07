@@ -8,7 +8,6 @@ This repository contains Python code to perform Natural Language Processing (NLP
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
@@ -45,24 +44,23 @@ Before running the code, make sure you have the following dependencies installed
 
 You can install the required libraries using the following command:
 
-\`\`\`bash
+```bash
 pip install numpy matplotlib pandas nltk scikit-learn
-\`\`\`
-
+```
 
 # Usage
 
 Clone this repository to your local machine:
 
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/natural-language-processing.git
-\`\`\`
+```
 
 Navigate to the project directory:
 
-\`\`\`bash
+```bash
 cd natural-language-processing
-\`\`\`
+```
 
 Execute the Jupyter Notebook or Python script to run the code. You can use a code editor or a Jupyter Notebook to open the provided .ipynb or .py file.
 
@@ -74,10 +72,10 @@ The code provided in this repository demonstrates the process of performing sent
 
 Confusion Matrix:
 
-\`\`\`lua
+```lua
 [[55 42]
  [12 91]]
-\`\`\`
+```
 
 Accuracy: 0.73
 
@@ -85,19 +83,11 @@ Accuracy: 0.73
 
 Confusion Matrix:
 
-\`\`\`lua
+```lua
 [[80 17]
  [28 75]]
-\`\`\`
+```
 
 Accuracy: 0.775
 
 These results provide an understanding of the effectiveness of the two models in classifying restaurant reviews based on sentiment.
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-\`\`\`csharp
-\`\`\`
-\`\`\`
