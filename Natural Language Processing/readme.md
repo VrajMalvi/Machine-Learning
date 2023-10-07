@@ -45,9 +45,9 @@ Before running the code, make sure you have the following dependencies installed
 
 You can install the required libraries using the following command:
 
-```bash
+\`\`\`bash
 pip install numpy matplotlib pandas nltk scikit-learn
-
+\`\`\`
 
 \`\`\`markdown
 # Usage
