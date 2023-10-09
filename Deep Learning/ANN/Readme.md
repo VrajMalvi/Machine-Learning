@@ -43,7 +43,7 @@ To use this code:
 Clone this repository to your local machine:
 
 ```bash
-git https://github.com/VrajMalvi/Machine-Learning/tree/main/ANN
+git https://github.com/VrajMalvi/Machine-Learning/tree/main/Deep%20Learning/ANN
 ```
 
 
