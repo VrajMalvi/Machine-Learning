@@ -19,7 +19,7 @@ Ensure that you have these dependencies installed before running the code.
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/convolutional-neural-network.git
+git clone https://github.com/VrajMalvi/Machine-Learning/tree/main/Deep%20Learning/CNN
 ```
 
 # Cat vs. Dog Showdown 🐱 🆚 🐶
