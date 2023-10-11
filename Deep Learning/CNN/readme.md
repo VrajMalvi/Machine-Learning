@@ -81,4 +81,3 @@ With banners flying, the model marches onto the training set and then proceeds t
 As the dust settles, we venture to make a single prediction. An image, whether of a cat or dog, is loaded and prepared for its fate. As the curtain falls, the class indices of 'cats' and 'dogs' reveal themselves. If the prediction is 1, it's a 'dog,' or else, it's a 'cat.'
 
 Prepare for an adventure of pixelated proportions as we embark on this thrilling cat versus dog classification journey! 🐾✨
-
