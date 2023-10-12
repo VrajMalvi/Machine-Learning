@@ -51,7 +51,6 @@ You can use this code as a template for classifying tumors as benign or malignan
 - scikit-learn
 - XGBoost
 
-
 Feel free to use, modify, and distribute this code for your projects.
 
 For more details, you can refer to the [XGBoost documentation](https://xgboost.readthedocs.io/).
