@@ -46,7 +46,4 @@ Discover unsupervised learning algorithms that uncover hidden patterns in your d
 ## Getting Started
 Each folder contains detailed information and code examples related to the respective machine learning category. Dive into these folders to expand your knowledge and practical skills in machine learning.
 
-## Contribution
-Feel free to contribute by adding more algorithms, examples, or documentation to this repository. Your contributions can help others learn and grow in the field of machine learning.
-
 Happy Learning and Exploring!
