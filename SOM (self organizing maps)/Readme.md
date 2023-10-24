@@ -3,6 +3,7 @@
 This project combines Self-Organizing Maps (SOM) and Artificial Neural Networks (ANN) to create a hybrid deep learning model for fraud detection. The goal is to identify potential fraud cases in a dataset.
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Part 1 - SOM](#part-1---som)
   - [Importing Libraries](#importing-libraries)
